@@ -14,3 +14,4 @@ dec = numerator / denomenator
 print("the decimal format of the fraction you entered is: ", dec )
 
 #java version of this application available at: 
+# https://github.com/tadpole63/javaL2JAVA_VERSION

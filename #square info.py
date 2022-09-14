@@ -22,3 +22,4 @@ area = side * 2
 print("The area of the square is: ", area)
 
 #java version of this application available at: 
+# https://github.com/tadpole63/javaL2JAVA_VERSION
