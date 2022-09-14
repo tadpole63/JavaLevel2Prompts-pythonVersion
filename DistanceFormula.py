@@ -22,3 +22,5 @@ d = math.sqrt((x1-x2)**2 + (y1-y2)**2)
 #print the result
 print("The distance between point (",x1,",",y1,") and (",x2,",",y2,") is ",format(d,".2f"))
 
+
+#java version of this application available at: 

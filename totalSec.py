@@ -19,3 +19,5 @@ total_sec = sec + sec_hour + sec_min
 
 #print the result
 print("the result total of seconds is: ", total_sec)
+
+#java version of this application available at: 
